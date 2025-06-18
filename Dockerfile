@@ -1,4 +1,4 @@
-FROM ubuntu:noble-20250404
+FROM ubuntu:noble-20250529
 
 LABEL org.opencontainers.image.url="https://github.com/misotolar/docker-openwrt-build-system"
 LABEL org.opencontainers.image.description="Docker OpenWRT Build System container"
